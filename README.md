@@ -54,6 +54,7 @@ I investigate connectivity issues in OpenFlux, reproduce problems on Android and
 - [OpenFlux](https://github.com/QA-E2E4/OpenFlux) — network stack and transport investigation.
 - [OpenFluxAndroid](https://github.com/QA-E2E4/OpenFluxAndroid) — Android client investigation.
 - [VPN Control Center](https://github.com/QA-E2E4/vpn-control-center) — self-hosted web panel for managing configured OpenFlux, Happ/Xray Reality, and AmneziaWG services, with per-profile access controls, traffic monitoring where supported, and a companion Windows SSH launcher.
+- [Rx2GO AI QA Pipeline](https://github.com/QA-E2E4/RX2GO-AI-QA-Pipeline) — Playwright/TypeScript QA automation with environment-aware test runs, reporting, and a Windows launcher.
 
 ## Contact
 
